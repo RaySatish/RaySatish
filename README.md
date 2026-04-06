@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=120&section=header" width="100%" />
-
 # Satish Prem Anand
 
 **`ML Engineer · Quant Finance · Agentic AI · Data Engineering`**
@@ -131,7 +128,5 @@ Mathematics      Probability Theory · Statistical Inference · Linear Algebra �
 Available immediately (remote) · Mid-May (on-site)
 
 [![Email](https://img.shields.io/badge/satishpremanand.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satishpremanand.work@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=80&section=footer" width="100%" />
 
 </div>
