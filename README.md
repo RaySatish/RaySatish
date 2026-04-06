@@ -115,7 +115,7 @@
 Languages        Python · SQL · R · MATLAB · Java · C
 ML / AI          TensorFlow · Scikit-learn · LLMs · RAG · LangGraph · LiteLLM · ChromaDB · FinBERT · LSTM · Agents
 Data Eng         Apache Spark · Kafka · Hadoop · ETL · PostgreSQL · Supabase · Redis · Pandas
-Cloud & Backend  AWS (EC2 · S3 · EMR · SageMaker) · FastAPI · Flask · Playwright · Docker · Git · Linux
+Cloud & Backend  AWS (EC2 · S3 · EMR · SageMaker) · FastAPI · MCP · Docker · Git · Linux
 Quant Finance    Portfolio Optimisation · Sharpe Ratio · Risk Modelling · Market Microstructure · Financial Time Series
 Mathematics      Probability Theory · Statistical Inference · Linear Algebra · Time Series · Optimisation
 ```
