@@ -1,63 +1,42 @@
 name: Sync DSA Stats
 
-# ── Triggers ──────────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: "0 2 * * *"   # Daily at 02:00 UTC (7:30 AM IST)
-  workflow_dispatch:       # Manual trigger from Actions tab anytime
-  push:
-    paths:
-      - "scripts/fetch_stats.py"   # Re-run when the script itself changes
+    - cron: "0 2 * * *"   # 02:00 UTC = 07:30 IST daily
+  workflow_dispatch:        # manual trigger from Actions tab
 
-# ── Permissions ───────────────────────────────────────────────────────────────
 permissions:
-  contents: write   # Needed to push the updated README back
+  contents: write
 
-# ── Job ───────────────────────────────────────────────────────────────────────
 jobs:
-  update-readme:
-    name: Fetch & Patch DSA Stats
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      # 1. Checkout the repo
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
-      # 2. Set up Python
-      - name: Set up Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
 
-      # 3. Install dependencies
-      - name: Install dependencies
-        run: pip install requests
-
-      # 4. Run the stats fetcher
       - name: Fetch stats and patch README
-        run: python scripts/fetch_stats.py --write
+        id: fetch
+        run: |
+          output=$(python scripts/fetch_stats.py 2>&1)
+          echo "$output"
+          if echo "$output" | grep -q "changed=true"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
 
-      # 5. Commit and push only if README changed
       - name: Commit updated README
+        if: steps.fetch.outputs.changed == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Stage only the README
           git add README.md
-
-          # Exit cleanly if nothing changed (idempotent)
-          if git diff --cached --quiet; then
-            echo "No changes to README.md — nothing to commit."
-            exit 0
-          fi
-
-          # Commit with a timestamped message
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-          git commit -m "chore: sync DSA stats [${TIMESTAMP}] [skip ci]"
+          git commit -m "chore: sync DSA stats [skip ci]"
           git push
