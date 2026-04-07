@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satishpremanand-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishpremanand)
 [![Email](https://img.shields.io/badge/Email-satishpremanand.work-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satishpremanand.work@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-RaySatish-6C5CE7?style=flat-square)](https://codolio.com/profile/RaySatish)
-[![Portfolio](https://img.shields.io/badge/GitHub-RaySatish-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaySatish)
+[![GitHub](https://img.shields.io/badge/GitHub-RaySatish-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RaySatish)
+[![Profile Views](https://komarev.com/ghpvc/?username=RaySatish&style=flat-square&color=e8f55a&label=Profile+Views)](https://github.com/RaySatish)
 
 </div>
 
@@ -19,7 +20,7 @@
 → Pre-final year @ VIT Vellore · M.Sc. Computational Statistics & Data Analytics · 9.23 GPA
 → Building production ML systems — not notebooks, not demos
 → Quantitative finance: portfolio optimisation, market microstructure, risk modelling
-→ Agentic AI: LangGraph pipelines, RAG systems, autonomous workflows
+→ Agentic AI: LangGraph systems, autonomous workflows
 → Data engineering: distributed pipelines with Spark, Kafka, Hadoop on AWS
 → 500+ DSA problems solved across platforms
 → 2 conference papers · 1 research internship (IIIT Allahabad)
@@ -38,7 +39,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RaySatish&theme=github-dark-blue&background=0a0a0a&border=222222&stroke=222222&ring=e8f55a&fire=e8f55a&currStreakLabel=e8f55a&sideLabels=f0ede8&currStreakNum=f0ede8&sideNums=f0ede8&dates=666666" />
+<img src="https://streak-stats.demolab.com?user=RaySatish&theme=github-dark-blue&background=0a0a0a&border=222222&stroke=222222&ring=e8f55a&fire=e8f55a&currStreakLabel=e8f55a&sideNums=f0ede8&dates=666666" />
 
 <br/><br/>
 
@@ -48,24 +49,84 @@
 
 ---
 
-## 💻 Coding Stats
+## 💻 DSA Stats — Unified Dashboard
+
+> Stats aggregated from **Codolio** · **TakeUForward** · **LeetCode** · **GeeksForGeeks**
 
 <div align="center">
 
-| Platform | Problems Solved | Highlights |
-|:--------:|:---------------:|:----------:|
-| **LeetCode** [Profile →](https://leetcode.com/u/RaySatish/)| 153+ | DP x18 · Binary Search x20 · Arrays x85 |
-| **TakeUForward** [Profile →](https://takeuforward.org/profile/RaySatish)| 305 | A2Z Sheet 74% · Linked Lists 100% · Trees 91% · Graphs 89% |
-| **TUF × LeetCode** [Profile →](https://takeuforward.org/profile/RaySatish)| 458 | 159 Easy · 200 Medium · 99 Hard |
-| **GeeksForGeeks** [Profile →](https://www.geeksforgeeks.org/user/raysatish/)| 50 | 16 Easy · 32 Medium · 2 Hard |
+### 🔢 Total Solved: **500+** unique problems across all platforms
+
+<br/>
+
+<!-- LeetCode Card -->
+<a href="https://leetcode.com/u/RaySatish/">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=RaySatish&theme=dark&border=e8f55a&backgroundColor=0a0a0a" alt="LeetCode Badge" />
+</a>
+
+<br/><br/>
+
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/RaySatish/">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=RaySatish&theme=dark" alt="LeetCode Stats" height="200"/>
+</a>
+
+<br/><br/>
 
 </div>
 
-> **Total across platforms: 500+ unique problems solved**
+### 📋 Platform Breakdown
+
+<div align="center">
+
+| Platform | Total | Easy | Medium | Hard | Highlights |
+|:--------:|:-----:|:----:|:------:|:----:|:----------:|
+| **[LeetCode ↗](https://leetcode.com/u/RaySatish/)** | **153** | 62 | 80 | 11 | Acceptance Rate: 64.42% · Rank: 1,011,474 |
+| **[TakeUForward ↗](https://takeuforward.org/profile/RaySatish)** | **305** | 97 | 120 | 88 | A2Z Sheet 74% · Linked Lists 100% · Trees 91% · Graphs 89% |
+| **[GeeksForGeeks ↗](https://www.geeksforgeeks.org/user/raysatish/)** | **50** | 16 | 32 | 2 | — |
+
+</div>
+
+<br/>
+
+### 🏆 TakeUForward Sheet Progress
+
+<div align="center">
+
+| Sheet | Progress |
+|:-----:|:--------:|
+| A2Z Sheet | `████████░░` 74% |
+| DSA (Concept Revision) | `███████░░░` 73% |
+| DSA (Quick Revision) | `██████░░░░` 63% |
+| Blind 75 | `████░░░░░░` 48% |
+| Striver 79 | `██████░░░░` 68% |
+| SDE Sheet | `████░░░░░░` 47% |
+
+</div>
+
+<br/>
+
+### 📌 Topic-wise Mastery (TUF)
+
+<div align="center">
+
+| Topic | Progress | Status |
+|:-----:|:--------:|:------:|
+| Linked Lists | `██████████` 100% | ✅ Complete |
+| Trees | `█████████░` 91% | 🔥 Near-complete |
+| Graphs | `████████░░` 89% | 🔥 Near-complete |
+| Binary Search | `███████░░░` 72% | 🟡 In Progress |
+| Stack & Queue | `███████░░░` 73% | 🟡 In Progress |
+| Strings | `██████░░░░` 67% | 🟡 In Progress |
+| Recursion | `██████░░░░` 68% | 🟡 In Progress |
+| Array | `████████░░` 77% | 🔥 Near-complete |
+| Dynamic Programming | `██░░░░░░░░` 27% | 🔴 In Progress |
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 01 · [CouchHire](https://github.com/RaySatish/CouchHire) `🔨 BUILDING`
 
@@ -96,7 +157,7 @@
 
 ---
 
-### 03 · [NIFTY50 Portfolio Optimizer](https://github.com/aritra0309/nifty50-portfolio-optimizer)
+### 03 · [NIFTY50 Portfolio Optimizer](https://github.com/aritra0309/nifty50-portfolioptimizer)
 
 > Per-ticker LSTM forecasting with FinBERT sentiment analysis and Monte Carlo Sharpe ratio optimization. Backtested across 10 stocks — sentiment-augmented model validated with paired t-test and Wilcoxon testing. Presented at 26th SET Conference.
 
@@ -114,11 +175,19 @@
 ```
 Languages        Python · SQL · R · MATLAB · Java · C
 ML / AI          TensorFlow · Scikit-learn · LLMs · RAG · LangGraph · LiteLLM · ChromaDB · FinBERT · LSTM · Agents
-Data Eng         Apache Spark · Kafka · Hadoop · ETL · PostgreSQL · Supabase · Redis · Pandas
+Data Eng         Apache Hadoop · Spark · Kafka · ETL · PostgreSQL · Supabase · Redis · Pandas
 Cloud & Backend  AWS (EC2 · S3 · EMR · SageMaker) · FastAPI · MCP · Docker · Git · Linux
 Quant Finance    Portfolio Optimisation · Sharpe Ratio · Risk Modelling · Market Microstructure · Financial Time Series
 Mathematics      Probability Theory · Statistical Inference · Linear Algebra · Time Series · Optimisation
 ```
+
+---
+
+## 🏅 Coding Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaySatish&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
 
 ---
 
@@ -128,5 +197,9 @@ Mathematics      Probability Theory · Statistical Inference · Linear Algebra �
 Available immediately (remote) · Mid-May (on-site)
 
 [![Email](https://img.shields.io/badge/satishpremanand.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satishpremanand.work@gmail.com)
+
+<br/>
+
+*Stats last synced: April 2026 · LeetCode: 153 solved · TUF: 305 solved · GFG: 50 solved*
 
 </div>
