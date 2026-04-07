@@ -2,7 +2,7 @@
 
 # Satish Prem Anand
 
-**`ML Engineer · Quant Finance · Agentic AI · Data Engineering`**
+**`ML Engineer · Agentic AI · Data Engineering · Quant Finance`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satishpremanand-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishpremanand)
 [![Email](https://img.shields.io/badge/Email-satishpremanand.work-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satishpremanand.work@gmail.com)
