@@ -8,7 +8,7 @@
 
 # Satish Prem Anand
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8F55A&center=true&vCenter=true&width=600&lines=ML+Engineer+%C2%B7+Agentic+AI;Data+Engineering+%C2%B7+Quant+Finance;Building+production+systems%2C+not+demos;LangGraph+%C2%B7+RAG+%C2%B7+Distributed+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8F55A&center=true&vCenter=true&width=600&lines=Data+Engineering+%C2%B7+Agentic+AI;ML+Engineer+%C2%B7+Quant+Finance;Building+production+systems%2C+not+demos;LangGraph+%C2%B7+RAG+%C2%B7+Distributed+Pipelines" alt="Typing SVG" />
 
 <br/><br/>
 
