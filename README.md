@@ -108,7 +108,7 @@
 
 ---
 
-## 🔗 Topic Mastery
+## 🔗 TakeUForward Topic Mastery
 
 <div align="center">
 
