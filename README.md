@@ -166,7 +166,7 @@ Distributed pipeline to detect wash trading, spoofing, and pump-and-dump in live
   <tr>
     <td width="50%" valign="top">
 
-### 📊 [NIFTY50 Portfolio Optimizer](https://github.com/aritra0309/nifty50-portfolioptimizer)
+### 📊 [NIFTY50 Portfolio Optimizer](https://github.com/aritra0309/nifty50-portfolio-optimizer)
 
 Per-ticker LSTM forecasting with FinBERT sentiment analysis and Monte Carlo Sharpe ratio optimisation. Backtested across 10 stocks — sentiment-augmented model validated with paired t-test and Wilcoxon testing. Presented at 26th SET Conference.
 
