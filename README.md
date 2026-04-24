@@ -135,7 +135,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 [CouchHire](https://github.com/RaySatish/CouchHire) `🔨 BUILDING`
+### 🤖 [CouchHire](https://github.com/RaySatish/CouchHire)
 
 Fully agentic job application pipeline. Parses JDs with NLP-based NER, retrieves CV sections via RAG, scores fit with sentence transformers, tailors LaTeX resumes, drafts emails — fires applications with a single Telegram tap. Self-improving match scorer retrains on personal outcomes.
 
