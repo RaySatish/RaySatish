@@ -183,7 +183,7 @@ Per-ticker LSTM forecasting with FinBERT sentiment analysis and Monte Carlo Shar
 
 ### 🧠 [Self-Pruning Neural Network](https://github.com/RaySatish/self-pruning-neural-network)
 
-Neural network that learns to prune its own weights during training via differentiable gating and L1 sparsity regularization on CIFAR-10. Achieves **277× compression** — 99.6% of connections pruned while *improving* accuracy by 2% over the unpruned baseline. Custom `PrunableLinear` layer with learnable sigmoid gates, 17 generated visualizations, and full per-layer sparsity analysis.
+Self-pruning network with learnable sigmoid gates and L1 sparsity regularization on CIFAR-10. Achieves **277× compression** — 99.6% of weights pruned while improving accuracy by 2% over baseline. Custom `PrunableLinear` layer, per-layer sparsity analysis, and 17 auto-generated visualizations.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-e8f55a?style=flat-square&labelColor=0a0a0a&color=e8f55a)
 ![Neural Pruning](https://img.shields.io/badge/Neural_Pruning-e8f55a?style=flat-square&labelColor=0a0a0a&color=e8f55a)
