@@ -299,11 +299,11 @@ def replace_section(content: str, start_marker: str, end_marker: str, new_body: 
 
 
 def replace_total_line(content: str, total: int) -> str:
-    """Replaces the whoami line containing ← TOTAL_SOLVED_LINE sentinel."""
-    pattern = re.compile(r"^(→ )(\d+\+?)(.*← TOTAL_SOLVED_LINE.*)$", re.MULTILINE)
+    """Replaces the DSA count in the whoami block (sentinel: <!-- TOTAL_SOLVED_LINE -->)."""
+    pattern = re.compile(r"^(→ )(\d+\+?)( DSA problems solved across platforms)$", re.MULTILINE)
     updated, n = pattern.subn(rf"\g<1>{total}\g<3>", content)
     if n == 0:
-        log.warning("TOTAL_SOLVED_LINE sentinel not found in README")
+        log.warning("TOTAL_SOLVED_LINE: DSA line not found in README")
     return updated
 
 

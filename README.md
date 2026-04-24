@@ -37,10 +37,11 @@
 → Quantitative finance: portfolio optimisation, market microstructure, risk modelling
 → Agentic AI: LangGraph systems, autonomous workflows
 → Data engineering: distributed pipelines with Spark, Kafka, Hadoop on AWS
-→ 524 DSA problems solved across platforms ← TOTAL_SOLVED_LINE
+→ 524 DSA problems solved across platforms
 → 2 conference papers · 1 research internship (IIIT Allahabad)
 → Available immediately (remote) · Mid-May (on-site)
 ```
+<!-- TOTAL_SOLVED_LINE -->
 
 ---
 
