@@ -178,11 +178,18 @@ Per-ticker LSTM forecasting with FinBERT sentiment analysis and Monte Carlo Shar
 ![Significance Testing](https://img.shields.io/badge/Stats_Testing-333?style=flat-square)
 
   </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
 
-<br/><br/>
+### 🧠 [Self-Pruning Neural Network](https://github.com/RaySatish/self-pruning-neural-network)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=5af5c8&center=true&vCenter=true&width=300&lines=More+projects+coming+soon...;Currently+building+CouchHire;Quant+%2B+Agentic+AI+%2B+MLOps" alt="More projects" />
+Neural network that learns to prune its own weights during training via differentiable gating and L1 sparsity regularization on CIFAR-10. Achieves **277× compression** — 99.6% of connections pruned while *improving* accuracy by 2% over the unpruned baseline. Custom `PrunableLinear` layer with learnable sigmoid gates, 17 generated visualizations, and full per-layer sparsity analysis.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-e8f55a?style=flat-square&labelColor=0a0a0a&color=e8f55a)
+![Neural Pruning](https://img.shields.io/badge/Neural_Pruning-e8f55a?style=flat-square&labelColor=0a0a0a&color=e8f55a)
+![CIFAR-10](https://img.shields.io/badge/CIFAR--10-333?style=flat-square)
+![L1 Regularization](https://img.shields.io/badge/L1_Regularization-333?style=flat-square)
+![MPS Accelerated](https://img.shields.io/badge/Apple_MPS-333?style=flat-square)
+![matplotlib](https://img.shields.io/badge/matplotlib-333?style=flat-square)
 
   </td>
   </tr>
@@ -206,6 +213,7 @@ Per-ticker LSTM forecasting with FinBERT sentiment analysis and Monte Carlo Shar
 
 **ML / AI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangGraph-e8f55a?style=for-the-badge&logoColor=black)
