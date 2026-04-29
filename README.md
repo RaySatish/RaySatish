@@ -37,7 +37,7 @@
 → Quantitative finance: portfolio optimisation, market microstructure, risk modelling
 → Agentic AI: LangGraph systems, autonomous workflows
 → Data engineering: distributed pipelines with Spark, Kafka, Hadoop on AWS
-→ 541 DSA problems solved across platforms
+→ 542 DSA problems solved across platforms
 → 2 conference papers · 1 research internship (IIIT Allahabad)
 → Available immediately (remote) · Mid-May (on-site)
 ```
@@ -80,10 +80,10 @@
 <!-- DSA_TABLE_START -->
 | Platform | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard | Link |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **LeetCode** | ![](https://img.shields.io/badge/solved-186-e8f55a?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/easy-90-5af5c8?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/medium-84-f5a623?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/hard-12-ff6b6b?style=flat-square&labelColor=0d0d0d) | [↗](https://leetcode.com/u/RaySatish/) |
+| **LeetCode** | ![](https://img.shields.io/badge/solved-187-e8f55a?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/easy-90-5af5c8?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/medium-85-f5a623?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/hard-12-ff6b6b?style=flat-square&labelColor=0d0d0d) | [↗](https://leetcode.com/u/RaySatish/) |
 | **TakeUForward** | ![](https://img.shields.io/badge/solved-305-e8f55a?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/easy-97-5af5c8?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/medium-120-f5a623?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/hard-88-ff6b6b?style=flat-square&labelColor=0d0d0d) | [↗](https://takeuforward.org/profile/RaySatish) |
 | **GeeksForGeeks** | ![](https://img.shields.io/badge/solved-50-e8f55a?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/easy-16-5af5c8?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/medium-32-f5a623?style=flat-square&labelColor=0d0d0d) | ![](https://img.shields.io/badge/hard-2-ff6b6b?style=flat-square&labelColor=0d0d0d) | [↗](https://www.geeksforgeeks.org/user/raysatish/) |
-| **✨ Combined** | ![](https://img.shields.io/badge/total-541-6C5CE7?style=flat-square&labelColor=0d0d0d) | — | — | — | — |
+| **✨ Combined** | ![](https://img.shields.io/badge/total-542-6C5CE7?style=flat-square&labelColor=0d0d0d) | — | — | — | — |
 <!-- DSA_TABLE_END -->
 
 </div>
